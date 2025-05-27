@@ -3,7 +3,7 @@
 # Integrantes:
 Gabriel Faria, João Victor Salim, Lucas Garcia, Maisa Pires, Maria Eduarda Gonçalves, Miguel Vieira e Pedro Lucas Sousa
 
-## 1. Processos de Negócio
+## 1. Serviços
 
 - **Criar Conta On-line**
 - **Pagar Boleto**
