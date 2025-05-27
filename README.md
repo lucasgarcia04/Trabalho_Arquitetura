@@ -97,7 +97,27 @@ Permitir que o cliente solicite um cartão de crédito, com avaliação de perfi
 
 ## 3. Diagrama
 
-![image](https://github.com/user-attachments/assets/33c784c1-1b84-4aff-9139-936bee9021c7)
+### Diagrama de Sequência - Criar Conta On-line
+
+![CriarConta](https://github.com/user-attachments/assets/817a91ea-f90a-44d4-a8d8-90765b19f2cf)
+
+---
+
+### Diagrama de Sequência - Pagar Boleto
+
+![PagarBoleto](https://github.com/user-attachments/assets/a972faa5-5897-40a0-a5e3-4f0e2a26e7fc)
+
+---
+
+### Diagrama de Sequência - Solicitação de Cartão de Crédito
+
+![SolicitarCartão](https://github.com/user-attachments/assets/aa39a521-51e7-445c-aadc-dae969085d24)
+
+---
+
+### Diagrama de Arquitetura do Sistema
+
+![ArquiteturaSistema](https://github.com/user-attachments/assets/a1bbcbb8-7a47-4317-8a21-1d09a4965b41)
 
 ---
 
